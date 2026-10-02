@@ -1,0 +1,14 @@
+{
+  "targets": [
+    {
+      "uid": "1234567890",
+      "name": "小凛喵儿",
+      "enabled": true
+    },
+    {
+      "uid": "0987654321",
+      "name": "示例博主B",
+      "enabled": false
+    }
+  ]
+}
